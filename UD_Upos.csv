@@ -1,0 +1,16 @@
+UD,Lexinfo
+Pos,partOfSpeech
+ADJ,adjective
+ADV,adverb
+CCONJ,coordinatingConjunction
+SCONJ,subordinatingConjunction
+DET,determiner
+NUM,numeral
+INTJ,interjection
+NOUN,noun
+PROPN,properNoun
+PRON,pronoun
+ADP,adposition
+VERB,verb
+AUX,auxiliary
+PART,particle

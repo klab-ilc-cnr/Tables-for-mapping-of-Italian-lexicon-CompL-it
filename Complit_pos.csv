@@ -1,0 +1,41 @@
+UD Pos,Relazione,Pos_Lexinfo
+Pos,lexinfo: partOfSpeech,
+ADJ,,adjective
+ADV,,adverb
+,,conjunction
+CCONJ,,coordinatingConjunction
+SCONJ,,subordinatingConjunction
+DET,,determiner
+,,article
+,,demonstrativeDeterminer 
+,,exclamativeDeterminer 
+,,indefiniteDeterminer 
+,,interrogativeDeterminer 
+,,numeralDeterminer 
+,,possessiveDeterminer 
+,,relativeDeterminer 
+NUM,,numeral
+,,cardinalNumeral
+,,indefiniteOrdinalNumeral
+,,
+INTJ,,interjection
+NOUN,,noun
+PROPN,,properNoun
+PRON,,pronoun
+,,personalPronoun
+,,demonstrativePronoun
+,,exclamativePronoun
+,,indefinitePronoun
+,,interrogativePronoun
+,,numeralPronoun
+,,possessivePronoun
+,,relativePronoun
+ADP,,adposition
+,,preposition
+,,fusedPreposition
+VERB,,verb
+AUX,,auxiliary
+PART,,particle
+PUNCT,,punctuation
+SYM ,,symbol
+X,,X
