@@ -1,21 +1,21 @@
 Magic;Lexinfo;Relation Lexinfo;Trait Lexinfo
 head;partOfSpeech;;
-adj ;adjective;;
-adv ;adverb;;
-conj ;conjunction;;
+adj;adjective;;
+adv;adverb;;
+conj;conjunction;;
 conj_c;coordinatingConjunction;;
 det;determiner;;
-int ;interjection;;
-nn ;noun;;
-nn_p ;properNoun;;
-pron ;pronoun;;
-prep ;preposition;;
+int;interjection;;
+nn;noun;;
+nn_p;properNoun;;
+pron;pronoun;;
+prep;preposition;;
 prep_a;fusedPreposition;;
 v_fin verbo;verb;finiteness;finite
-v_nofin verbo, ;verb;finiteness;non-finite
-v_pp verbo, ;verb;mood;participle
+v_nofin verbo;verb;finiteness;non-finite
+v_pp verbo;verb;mood;participle
 pdet;particle;;
-pron_p ;personalPronoun;;
+pron_p;personalPronoun;;
 art ;article;;
 art_i;indefiniteArticle;;
 art_d;definiteArticle;;
