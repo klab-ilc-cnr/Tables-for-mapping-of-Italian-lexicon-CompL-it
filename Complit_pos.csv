@@ -1,4 +1,4 @@
-UD Pos,Relazione,Pos_Lexinfo
+UD Pos,Relation,Pos_Lexinfo
 Pos,lexinfo: partOfSpeech,
 ADJ,,adjective
 ADV,,adverb
