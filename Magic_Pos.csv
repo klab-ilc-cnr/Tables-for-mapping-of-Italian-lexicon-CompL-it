@@ -1,50 +1,50 @@
-Magic;Lexinfo;Relation Lexinfo;Trait Lexinfo
-head;partOfSpeech;;
-adj;adjective;;
-adv;adverb;;
-conj;conjunction;;
-conj_c;coordinatingConjunction;;
-det;determiner;;
-int;interjection;;
-nn;noun;;
-nn_p;properNoun;;
-pron;pronoun;;
-prep;preposition;;
-prep_a;fusedPreposition;;
-v_fin verbo;verb;finiteness;finite
-v_nofin verbo;verb;finiteness;non-finite
-v_pp verbo;verb;mood;participle
-pdet;particle;;
-pron_p;personalPronoun;;
-art ;article;;
-art_i;indefiniteArticle;;
-art_d;definiteArticle;;
-c_num;cardinalNumeral;;
-o_num;indefiniteOrdinalNumeral;;
-;;;
-;;;
-(adj;pdet);aggettivo/prequalificatore;;
-(adj;pron;det);aggettivo/pronome/determiner;;
-(adj;pron);aggettivo/pronome;;
-(art_i;c_num);articolo indeterminativo/cardinale numerale;;
-(conj;prep);congiunzione/preposizione;;
-(prep;conj);preposizione/congiunzione;;
-adj;aggettivo;;
-adj;nn;aggettivo/nome;;
-adj;pron;aggettivo/pronome;;
-adv;avverbio;;
-art_d;articolo determinativo;;
-art_i;c_num;articolo indeterminativo/cardinale numerale;;
-c_num;cardinale numerale;;
-conj;congiunzione ;;
-conj_c;congiunzione coordinata;;
-conj_c;conj;congiunzione coordinata/congiunzione;;
-det;determiner;;
-det;pron;determiner/pronome;;
-det;pron;adj;determiner/pronome/aggettivo;;
-int;interiezione;;
-nn;nome comune;;
-nn_p;nome proprio;;
-pdet;prequalificatore;;
-prep;preposizione ;;
-prep_a;preposizione articolata;;
+Magic,Lexinfo,Relation Lexinfo,Trait Lexinfo
+head,partOfSpeech,,
+adj,adjective,,
+adv,adverb,,
+conj,conjunction,,
+conj_c,coordinatingConjunction,,
+det,determiner,,
+int,interjection,,
+nn,noun,,
+nn_p,properNoun,,
+pron,pronoun,,
+prep,preposition,,
+prep_a,fusedPreposition,,
+v_fin verbo,verb,finiteness,finite
+v_nofin verbo,verb,finiteness,non-finite
+v_pp verbo,verb,mood,participle
+pdet,particle,,
+pron_p,personalPronoun,,
+art,article,,
+art_i,indefiniteArticle,,
+art_d,definiteArticle,,
+c_num,cardinalNumeral,,
+o_num,indefiniteOrdinalNumeral,,
+,,,
+,,,
+(adj;pdet),aggettivo/prequalificatore,,
+(adj;pron,det),aggettivo/pronome/determiner,,
+(adj;pron),aggettivo/pronome,,
+(art_i;c_num),articolo indeterminativo/cardinale numerale,,
+(conj;prep),congiunzione/preposizione,,
+(prep;conj),preposizione/congiunzione,,
+adj,aggettivo,,
+adj,nn,aggettivo/nome,,
+adj,pron,aggettivo/pronome,,
+adv,avverbio,,
+art_d,articolo determinativo,,
+art_i,c_num,articolo indeterminativo/cardinale numerale,,
+c_num,cardinale numerale,,
+conj,congiunzione,,
+conj_c,congiunzione coordinata,,
+conj_c,conj,congiunzione coordinata/congiunzione,,
+det,determiner,,
+det,pron,determiner/pronome,,
+det,pron,adj,determiner/pronome/aggettivo,,
+int,interiezione,,
+nn,nome comune,,
+nn_p,nome proprio,,
+pdet,prequalificatore,,
+prep,preposizione ,,
+prep_a,preposizione articolata,,
