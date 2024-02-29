@@ -33,7 +33,7 @@ pos ,,positive,,
 comp ,,comparative,,
 sup ,,superlative,,
 ,,,,
-aug,,complit:aug
-pej,,complit:pej
-dim,,complit:dim
-end,,complit:end
+aug,,,,complit:aug
+pej,,,,complit:pej
+dim,,,,complit:dim
+end,,,,complit:end
