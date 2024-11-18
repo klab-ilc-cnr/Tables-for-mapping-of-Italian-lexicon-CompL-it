@@ -31,8 +31,8 @@ dat ,,dativeCase,,
 degree,degree,degree,hasDegree,
 pos ,,positive,,
 comp ,,comparative,,
-sup ,,superlative,,
-aug ,,olia:augmentative,
-pej ,,,complit:pej
-dim ,,olia:diminutive, 
-end ,,,complit:end
+sup,,superlative,,
+aug,,,olia:augmentative,
+pej,,,,complit:pej
+dim,,,olia:diminutive, 
+end,,,,complit:end
