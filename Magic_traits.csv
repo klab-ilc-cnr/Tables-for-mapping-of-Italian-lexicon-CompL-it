@@ -32,7 +32,7 @@ degree,degree,degree,hasDegree,
 pos ,,positive,,
 comp ,,comparative,,
 sup ,,superlative,,
-aug,,olia:augmentative,
-pej,,,complit:pej
-dim,,olia:diminutive, 
-end,,,complit:end
+aug ,,olia:augmentative,
+pej ,,,complit:pej
+dim ,,olia:diminutive, 
+end ,,,complit:end
