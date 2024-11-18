@@ -1,4 +1,4 @@
- Magic,rel lexinfo,Lexinfo,OLIA rel, Compl-it
+ Magic,rel lexinfo,Lexinfo, Compl-it
 gend,gender,gender,,
 m,,masculine,,
 f,,feminine,,
@@ -33,7 +33,7 @@ pos ,,positive,,
 comp ,,comparative,,
 sup ,,superlative,,
 ,,,,
-aug,,,olia:augmentative
+aug,,olia:augmentative,
 pej,,,,complit:pej
 dim,,,olia:diminutive
 end,,,,complit:end
