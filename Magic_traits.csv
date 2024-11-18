@@ -33,7 +33,7 @@ pos ,,positive,,
 comp ,,comparative,,
 sup ,,superlative,,
 ,,,,
-aug,,,,complit:aug
+aug,,,olia:augmentative,
 pej,,,,complit:pej
-dim,,,,complit:dim
+dim,,,olia:diminutive
 end,,,,complit:end
