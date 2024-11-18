@@ -1,2 +1,2 @@
 # Tables-for-mapping-of-Italian-Lexicon-CompL-it
-Correspondence tables between LexInfo values and the tagsets of the following resources: Magic, LexicO, and Italian Treebank.
+Tables of correspondence between POS and traits of M-GLF, LexicO and Treebank and LexInfo vocabularies. In cases where correspondence with LexInfo vocabularies was not possible, OLiA categories are used.
